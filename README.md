@@ -31,4 +31,15 @@ flowchart LR
   neo-net --> avmnite-02h
   
   omega-net --> computek
+  
+  avmnite-02h --> zb-institute
+  
+  netlink --> catalyst
+  netlink --> I.I.I.I
+  
+  zb-institute --> lexo-corp
+  
+  I.I.I.I --> millenium-fitness
+  
+  catalyst --> alpha-ent
 ```
