@@ -2,33 +2,19 @@
 
 ```mermaid
 flowchart TB
-  home --> n00dles
-  home --> foodnstuff
-  home --> sigma-cosmetics
-  home --> joesguns
-  home --> hong-fang-tea
-  home --> harakiri-sushi
-  home --> iron-gym
-  home --> darkweb
+  home --> n00dles & foodnstuff & sigma-cosmetics & joesguns & hong-fang-tea & harakiri-sushi & iron-gym & darkweb
   
   joesguns --> zer0
   
-  hong-fang-tea --> nectar-net
-  hong-fang-tea --> CSEC
+  hong-fang-tea --> nectar-net & CSEC
   
   iron-gym --> max-hardware
   
   max-hardware --> phantasy
   
-  CSEC --> neo-net
-  CSEC --> silver-helix
-  CSEC --> omega-net
+  CSEC --> neo-net & silver-helix & omega-net
   
-  neo-net --> the-hub
-  neo-net --> netlink
-  neo-net --> johnson-ortho
-  neo-net --> crush-fitness
-  neo-net --> avmnite-02h
+  neo-net --> the-hub & netlink & johnson-ortho & crush-fitness & avmnite-02h
   
   omega-net --> computek
   
