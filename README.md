@@ -77,4 +77,10 @@ flowchart TB
   
   vitalife --> omnitek
   vitalife --> 4sigma
+  
+  4sigma --> b-and-a --> fulcrumassets
+    
+  kuai-gong --> blade --> ecorp
+  
+  . --> nwo & clarkinc & powerhouse-fitness
 ```
