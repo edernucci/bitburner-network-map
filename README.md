@@ -19,4 +19,8 @@ flowchart LR
   iron-gym --> max-hardware
   
   max-hardware --> phantasy
+  
+  CSEC --> neo-net
+  CSEC --> silver-helix
+  CSEC --> omega-net
 ```
