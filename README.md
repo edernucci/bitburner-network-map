@@ -23,4 +23,12 @@ flowchart LR
   CSEC --> neo-net
   CSEC --> silver-helix
   CSEC --> omega-net
+  
+  neo-net --> the-hub
+  neo-net --> netlink
+  neo-net --> johnson-ortho
+  neo-net --> crush-fitness
+  neo-net --> avmnite-02h
+  
+  omega-net --> computek
 ```
