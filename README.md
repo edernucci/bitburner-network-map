@@ -60,4 +60,15 @@ flowchart TB
   univ-energy --> zb-def
   
   solaris --> taiyang-digital
+  
+  nova-med --> titan-labs
+  nova-med --> microdyne
+  nova-med --> applied-energetics
+  nova-med --> run4theh111z
+  
+  microdyne --> fulcrumtech
+  
+  run4theh111z ---> stormtech
+  run4theh111z ---> helios
+  run4theh111z ---> vitalife
 ```
