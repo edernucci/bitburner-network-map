@@ -10,4 +10,13 @@ flowchart LR
   home --> harakiri-sushi
   home --> iron-gym
   home --> darkweb
+  
+  joesguns --> zer0
+  
+  hong-fang-tea --> nectar-net
+  hong-fang-tea --> CSEC
+  
+  iron-gym --> max-hardware
+  
+  max-hardware --> phantasy
 ```
