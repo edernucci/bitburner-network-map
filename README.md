@@ -49,6 +49,15 @@ flowchart TB
   snap-fitness --> omnia
   
   omnia --> defcomm
+  omnia --> icarus
+  omnia --> univ-energy
+  omnia --> solaris
+  omnia --> zeus-med
   
   defcomm --> nova-med
+  
+  univ-energy --> infocomm
+  univ-energy --> zb-def
+  
+  solaris --> taiyang-digital
 ```
