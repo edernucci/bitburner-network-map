@@ -20,8 +20,7 @@ flowchart TB
   
   avmnite-02h --> zb-institute
   
-  netlink --> catalyst
-  netlink --> I.I.I.I
+  netlink --> catalyst & I.I.I.I
   
   zb-institute --> lexo-corp
   
@@ -29,40 +28,27 @@ flowchart TB
   
   catalyst --> alpha-ent
   
-  alpha-ent --> global-pharm
-  alpha-ent --> snap-fitness
+  alpha-ent --> global-pharm & snap-fitness
   
   snap-fitness --> omnia
   
-  omnia --> defcomm
-  omnia --> icarus
-  omnia --> univ-energy
-  omnia --> solaris
-  omnia --> zeus-med
+  omnia --> defcomm & icarus & univ-energy & solaris & zeus-med
   
   defcomm --> nova-med
   
-  univ-energy --> infocomm
-  univ-energy --> zb-def
+  univ-energy --> infocomm & zb-def
   
   solaris --> taiyang-digital
   
-  nova-med --> titan-labs
-  nova-med --> microdyne
-  nova-med --> applied-energetics
-  nova-med --> run4theh111z
+  nova-med --> titan-labs & microdyne & applied-energetics & run4theh111z
   
   microdyne --> fulcrumtech
   
-  run4theh111z ---> stormtech
-  run4theh111z ---> helios
-  run4theh111z ---> vitalife
+  run4theh111z ---> stormtech & helios & vitalife
   
-  helios ---> kuai-gong
-  helios ---> .
+  helios ---> kuai-gong & .
   
-  vitalife --> omnitek
-  vitalife --> 4sigma
+  vitalife --> omnitek & 4sigma
   
   4sigma --> b-and-a --> fulcrumassets
     
