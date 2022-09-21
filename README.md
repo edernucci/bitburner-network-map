@@ -71,4 +71,10 @@ flowchart TB
   run4theh111z ---> stormtech
   run4theh111z ---> helios
   run4theh111z ---> vitalife
+  
+  helios ---> kuai-gong
+  helios ---> .
+  
+  vitalife --> omnitek
+  vitalife --> 4sigma
 ```
