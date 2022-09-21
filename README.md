@@ -1,7 +1,7 @@
 # bitburner-network-map
 
 ```mermaid
-flowchart LR
+flowchart TB
   home --> n00dles
   home --> foodnstuff
   home --> sigma-cosmetics
@@ -42,4 +42,13 @@ flowchart LR
   I.I.I.I --> millenium-fitness
   
   catalyst --> alpha-ent
+  
+  alpha-ent --> global-pharm
+  alpha-ent --> snap-fitness
+  
+  snap-fitness --> omnia
+  
+  omnia --> defcomm
+  
+  defcomm --> nova-med
 ```
