@@ -1,4 +1,4 @@
-# bitburner-network-map
+### Server network map for the Bitburner game at https://danielyxie.github.io/bitburner/
 
 ```mermaid
 flowchart TB
